@@ -1,0 +1,4 @@
+/Users/taylordelph/Desktop/Epicodus/car-dealership/obj/Debug/netcoreapp2.2/Program.csprojAssemblyReference.cache
+/Users/taylordelph/Desktop/Epicodus/car-dealership/obj/Debug/netcoreapp2.2/Program.csproj.CoreCompileInputs.cache
+/Users/taylordelph/Desktop/Epicodus/car-dealership/obj/Debug/netcoreapp2.2/Program.AssemblyInfoInputs.cache
+/Users/taylordelph/Desktop/Epicodus/car-dealership/obj/Debug/netcoreapp2.2/Program.AssemblyInfo.cs
